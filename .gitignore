@@ -1,0 +1,4 @@
+# Ignore unnecessary files
+*.log
+*.tmp
+.DS_Store
